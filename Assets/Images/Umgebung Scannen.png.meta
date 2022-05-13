@@ -1,0 +1,2126 @@
+fileFormatVersion: 2
+guid: 1c26b8cf93f8aae46ba5f563bc24f94b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 64, y: 64, z: 64, w: 64}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Umgebung Scannen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb3d250674769246a539ec02eaf4c34
+      internalID: 935460111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 489
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7ba7e985b01e94ba3f5fdfb6aaabe6
+      internalID: 927768292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 489
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41f70b2060db6b4a912ac0c4a39426f
+      internalID: -1866733436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 489
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a681a2a4316234399f477489990e5d
+      internalID: 1891550316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 489
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18565f7f582a35149a0683d6c56c3c41
+      internalID: -1320913007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 489
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641afe7c347633d4db3348d1fc90ecff
+      internalID: 145480587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 489
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e175015dab7c54db0cc64f27336d55
+      internalID: -225949301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 489
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c6718741e49274498c8f59af4b84ca
+      internalID: 405137610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 489
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b12326b7625e540a2cc3f749a83429
+      internalID: -610226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_9
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 489
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec01d75117d8f3e4190d67ff4e5e5414
+      internalID: -1641106650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9acd1ba518be84bb12734533a1f4f2
+      internalID: -1003261924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 428
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b65f73729611a143bd85bd611bd1413
+      internalID: 1914846034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 428
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1358d457b207dc54a8188dd112cd0092
+      internalID: 576978021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 428
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecb7986278365b4ea42243978c7485c
+      internalID: 649376285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 428
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762f46bb2698ebf42b41972cff7dfcfa
+      internalID: 1158807220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 428
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46e1887797bdff4caeeaf0fa6665bc2
+      internalID: 778833320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 428
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a061fb97f41c1244bb15b702abae84f7
+      internalID: -1075761776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_17
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 428
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d636edb762768c49a75565b71c725cb
+      internalID: -717354623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 428
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e7f4ce945e006408f61b251dd7787f
+      internalID: 1802522052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_19
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 428
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493b9e931dbef0d4cbe644460b77c1b7
+      internalID: -981459271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921eef4330e7e3d479471e6dd02024bf
+      internalID: -2068563464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 367
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511e06fbd3f2d6c4dbd8be012774951f
+      internalID: -1507954177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 367
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffe237bc043d8946a2e7d0166860c02
+      internalID: -1714394177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 367
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f41b782d268b9449254054ca5329f1
+      internalID: 2024806480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 367
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a607fbfb9493464cb88d8ee1eb1ec41
+      internalID: -1731993807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 367
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3562b7def5a9615458782f1155d0c61b
+      internalID: 937123388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_26
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 367
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65974fcc66fcf7d4185fc860b8ecc25b
+      internalID: -1886328178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_27
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 367
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9282b6667b9f1449ac50ea0fbab225
+      internalID: 902179066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 367
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52b2e1cb1b70fb44956bf0262c66f90
+      internalID: 360046342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_29
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 367
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa70bdf80711cf44b45674ea6c103b6
+      internalID: -264978248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92c9e9363aff7341a9ebeaa443e50e4
+      internalID: 1708822389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 306
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaec4ecad557d94990f46fd096b20cd
+      internalID: -2136906423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 306
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678de5c02ae363c46a0d3fd66f8d189c
+      internalID: 1223105908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 306
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04b198dab1a4e444929c941b0656a83
+      internalID: 932297066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 306
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc8154e4473d8544a1394ef2cc65e36
+      internalID: 1857207330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 306
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31475c9ed489bea43aa6289bc1336992
+      internalID: 2070008449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_36
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 306
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef24f70ceee2f8846a6eb87be5f331ba
+      internalID: -2050193112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_37
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 306
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8586639d1533542a12b76599a6cc7e
+      internalID: -1232247237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_38
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 306
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c5e2bfd4f888438bce8aa83c78ecd
+      internalID: -1782996013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_39
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 306
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a192b01d7152542909910cbe4859f8
+      internalID: 1087609696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0654780275ccc49ae37462c0666dba
+      internalID: -288521132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 245
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93ba4f772658224a8f21a7a448befcd
+      internalID: -1121140178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_42
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 245
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fe2e03eeb620b42b8176d6d5eefeec
+      internalID: -1715119519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 245
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557beadde3df5eb40b2a5f95a1709f94
+      internalID: 1387088749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_44
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 245
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c8f0f3427a65c41b122dd90bea7feb
+      internalID: 1946113750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 245
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82fb1f338efcbc4885032b6b11a56b3
+      internalID: 1144593971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_46
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 245
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5480424ffb407e14e986f4924475aaa9
+      internalID: 1880763548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_47
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 245
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eca49c89881c24b9896600bed15d1d
+      internalID: -1036773837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_48
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 245
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe684301bd6cc0a4399992979376b59c
+      internalID: -241413194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_49
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 245
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32f962409a8f994286108d3a3bc3c2f
+      internalID: -1079831370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c540a785a03f9684ea1e9e5a119ecc32
+      internalID: -184691247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_51
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 184
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c280cd921b3940b035222e29898ba
+      internalID: -1861642730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_52
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 184
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81049e316e6d77e4188cd23ea09ebf06
+      internalID: -283490671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 184
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ac48b09de2b464a9e323291d141c38
+      internalID: -722794720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_54
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 184
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd8aa1a1aaaccc4485a7acb48c845eb
+      internalID: -1065577431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_55
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 184
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b83cacf1694b6438a05bd964ad7ab9
+      internalID: 600046983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_56
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 184
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb51e6697324548438076ed50b5fe08f
+      internalID: 1372034812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_57
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 184
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ccfccb916b8b94cb82b772fd487296
+      internalID: 626180058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_58
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 184
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d762d86a89f73bb4189fca42d6ea7a6a
+      internalID: 1904619697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_59
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 184
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d72683ac668f84418351b850d94af06
+      internalID: -661583128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba25ab7d43e7d14e93bde3723ae4537
+      internalID: 565399598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 123
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f9103e86a9b5b44923e10518b99a6d
+      internalID: -689994932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 123
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243ca0f3ee998ec4784bec39b5d46aba
+      internalID: -536685924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 123
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a6f78eb91dea04ea29ce008df2d23e
+      internalID: -783201121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_64
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 123
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50281eb92c3be34478c0861697af4ea4
+      internalID: 1672040921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 123
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6136ec21bbcab564c82fb2301fec82a4
+      internalID: -1289617928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_66
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 123
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42802cf54e2d9c1409000b282573be32
+      internalID: -686570190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_67
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 123
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b0dfa76e653e34fb0739b3827b0b0f
+      internalID: -1799511772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_68
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 123
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fdfbee6f029ea4488452b12f9a739d
+      internalID: -1901809404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_69
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 123
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f6ea6c5c3cb174eb312d4b16305e6d
+      internalID: -1941303622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0928f426ad89e48bd6d775d4d34097
+      internalID: -163294652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_71
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 62
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa95a4d318c34740bc0d321bcbf8d74
+      internalID: -1288145197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_72
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 62
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7f1c75f8d238e42a80f820a53b19a7
+      internalID: -876767710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_73
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 62
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d311f41172b1f499b514f1e40fdbfa
+      internalID: -1613421644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 62
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ad97e98a91a064b9b88767f964c05c
+      internalID: 1578358404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_75
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 62
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb55cd2b5abb749a08a2fc9eab7359
+      internalID: -1985139700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_76
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 62
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f565af29dd24d44962ae8775c44890
+      internalID: 1675589897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_77
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 62
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5652a920e377ba9499658b1121107e48
+      internalID: -1947933552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_78
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 62
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4478c24b7634f874587865336c43b31b
+      internalID: 1713299084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_79
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 62
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7965dd4306e1794d891ae233c157fd9
+      internalID: -1440416946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c1a6ac5b148b84ab579983039b0f98
+      internalID: -2051102275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_81
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3cc326122781b48bb10277c592af64
+      internalID: -1799508453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_82
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd59132437e4c234a9752dbbf2a4fd70
+      internalID: 1181735937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_83
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1351d79bcf9facb48be965ec638ede8d
+      internalID: -264702457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_84
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb474dc066bcf3444912c7e8a5250ae0
+      internalID: -1187692770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_85
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e032caaefbbe864ba8aab36179c75d6
+      internalID: -947637563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_86
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33076c060c342e143879854666639ac5
+      internalID: -1877054546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_87
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671a481cefe9b0b41b73d090b1400118
+      internalID: 1202695270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_88
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4735da737042d6a46a1d3b781bd78519
+      internalID: 1673013532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Umgebung Scannen_89
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37ca46ca1c36b043bf566c7a11d93c3
+      internalID: 635632112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Umgebung Scannen_65: -1289617928
+      Umgebung Scannen_46: 1880763548
+      Umgebung Scannen_42: -1715119519
+      Umgebung Scannen_83: -264702457
+      Umgebung Scannen_85: -947637563
+      Umgebung Scannen_4: -1320913007
+      Umgebung Scannen_80: -2051102275
+      Umgebung Scannen_1: 927768292
+      Umgebung Scannen_19: -981459271
+      Umgebung Scannen_27: 902179066
+      Umgebung Scannen_28: 360046342
+      Umgebung Scannen_49: -1079831370
+      Umgebung Scannen_25: 937123388
+      Umgebung Scannen_14: 1158807220
+      Umgebung Scannen_52: -283490671
+      Umgebung Scannen_37: -1232247237
+      Umgebung Scannen_70: -163294652
+      Umgebung Scannen_7: 405137610
+      Umgebung Scannen_59: -661583128
+      Umgebung Scannen_82: 1181735937
+      Umgebung Scannen_73: -1613421644
+      Umgebung Scannen_41: -1121140178
+      Umgebung Scannen_81: -1799508453
+      Umgebung Scannen_55: 600046983
+      Umgebung Scannen_63: -783201121
+      Umgebung Scannen_77: -1947933552
+      Umgebung Scannen_66: -686570190
+      Umgebung Scannen_72: -876767710
+      Umgebung Scannen_89: 635632112
+      Umgebung Scannen_45: 1144593971
+      Umgebung Scannen_20: -2068563464
+      Umgebung Scannen_15: 778833320
+      Umgebung Scannen_29: -264978248
+      Umgebung Scannen_44: 1946113750
+      Umgebung Scannen_57: 626180058
+      Umgebung Scannen_56: 1372034812
+      Umgebung Scannen_74: 1578358404
+      Umgebung Scannen_5: 145480587
+      Umgebung Scannen_62: -536685924
+      Umgebung Scannen_35: 2070008449
+      Umgebung Scannen_40: -288521132
+      Umgebung Scannen_36: -2050193112
+      Umgebung Scannen_17: -717354623
+      Umgebung Scannen_0: 935460111
+      Umgebung Scannen_48: -241413194
+      Umgebung Scannen_38: -1782996013
+      Umgebung Scannen_30: 1708822389
+      Umgebung Scannen_47: -1036773837
+      Umgebung Scannen_60: 565399598
+      Umgebung Scannen_51: -1861642730
+      Umgebung Scannen_64: 1672040921
+      Umgebung Scannen_54: -1065577431
+      Umgebung Scannen_8: -610226
+      Umgebung Scannen_61: -689994932
+      Umgebung Scannen_3: 1891550316
+      Umgebung Scannen_11: 1914846034
+      Umgebung Scannen_32: 1223105908
+      Umgebung Scannen_22: -1714394177
+      Umgebung Scannen_26: -1886328178
+      Umgebung Scannen_58: 1904619697
+      Umgebung Scannen_86: -1877054546
+      Umgebung Scannen_31: -2136906423
+      Umgebung Scannen_68: -1901809404
+      Umgebung Scannen_9: -1641106650
+      Umgebung Scannen_87: 1202695270
+      Umgebung Scannen_34: 1857207330
+      Umgebung Scannen_53: -722794720
+      Umgebung Scannen_71: -1288145197
+      Umgebung Scannen_79: -1440416946
+      Umgebung Scannen_24: -1731993807
+      Umgebung Scannen_6: -225949301
+      Umgebung Scannen_84: -1187692770
+      Umgebung Scannen_78: 1713299084
+      Umgebung Scannen_69: -1941303622
+      Umgebung Scannen_50: -184691247
+      Umgebung Scannen_10: -1003261924
+      Umgebung Scannen_13: 649376285
+      Umgebung Scannen_88: 1673013532
+      Umgebung Scannen_23: 2024806480
+      Umgebung Scannen_43: 1387088749
+      Umgebung Scannen_2: -1866733436
+      Umgebung Scannen_76: 1675589897
+      Umgebung Scannen_33: 932297066
+      Umgebung Scannen_16: -1075761776
+      Umgebung Scannen_67: -1799511772
+      Umgebung Scannen_18: 1802522052
+      Umgebung Scannen_12: 576978021
+      Umgebung Scannen_75: -1985139700
+      Umgebung Scannen_21: -1507954177
+      Umgebung Scannen_39: 1087609696
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
